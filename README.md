@@ -32,7 +32,7 @@ git commit -m "enter description"
 cd [FILEPATH to GitHub]
 ```
 
-2. Then, either add the URL (Or set-URL if you get a "fatal: remote origin already exists" error)
+2. Then, set the URL
 
 ```
 git remote set-url origin https://github.com/seth-mc/fullstackopen.git
