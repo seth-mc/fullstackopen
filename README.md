@@ -6,7 +6,7 @@
 ```
 git --version
 ```
-2. Create a new file for your GitHub documents.
+2. Create a new file repository.
 3. Copy the filepath by going Edit > click "Alt" and select 'Copy "GitHub" as Filename'. 
 4. open Terminal. Enter the following:
 ```
